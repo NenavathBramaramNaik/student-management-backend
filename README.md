@@ -14,8 +14,20 @@
 	
 #API response:
 	
-	For Saving/updating data:
+	For Saving data:
 					{
+					  "firstName": "Bramaram",
+					  "lastName": "Nenavath",
+					  "dateOfBirth": "1990-05-25",
+					  "email": "abc@abc.com",
+					  "phoneNumber": 1744044699,
+					  "status": "SUBSCRIBED",
+					  "universityName": "Jawaharlal Nehru State University",
+					  "universityDate": "2021-01-01"
+					}
+	For updating data:
+					{
+					  "id":1
 					  "firstName": "Bramaram",
 					  "lastName": "Nenavath",
 					  "dateOfBirth": "1990-05-25",
